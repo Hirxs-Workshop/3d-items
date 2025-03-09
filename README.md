@@ -1,6 +1,8 @@
 Have you ever wanted 3D items? Well now you have it, this texture adds 3D items such as lanterns, torches and campfires, soon even more 3D items such as totem, sea cucumber ect ect will be added
+‎ 
 
 ---
+‎ 
 
 And it may also be compatible with some of your textures, and well, you wonder how I can make the texture of the flashlight compatible with my texture?
 
